@@ -1,0 +1,53 @@
+# Butterfly Theme Configuration
+# Docs: https://butterfly.js.org/
+
+# Navigation Menu
+menu:
+  首页: / || fas fa-home
+  归档: /archives/ || fas fa-archive
+  标签: /tags/ || fas fa-tags
+  分类: /categories/ || fas fa-folder-open
+  清单: /link/ || fas fa-link
+  关于: /about/ || fas fa-heart
+
+# Social Icons
+social:
+  github: https://github.com/yourname || fab fa-github
+  email: mailto:yourname@mail.com || fas fa-envelope
+
+# Avatar and Info
+avatar:
+  img: https://unpkg.com/hexo-theme-butterfly/source/img/friend_404.gif
+  effect: true # true / false
+
+# Site Meta
+site:
+  name: My Personal Blog
+  description: Powered by Hexo & Butterfly
+  keywords: blog, hexo, butterfly
+
+# Search System
+search:
+  use: local_search
+
+# Local Search
+local_search:
+  enable: true
+  preload: false
+  CDN: 
+
+# Card UI Settings
+# Butterfly defaults to card UI, but we can tweak it here
+# ...
+
+# Footer
+footer:
+  owner:
+    enable: true
+    since: 2023
+  custom_text: 
+
+# Inject
+inject:
+  head:
+  bottom:
