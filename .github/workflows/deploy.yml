@@ -21,16 +21,16 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         submodules: true
 
+    - name: Install pnpm
+      uses: pnpm/action-setup@v3
+      with:
+        version: 8
+
     - name: Setup Node
       uses: actions/setup-node@v4
       with:
         node-version: '20'
         cache: 'pnpm'
-
-    - name: Install pnpm
-      uses: pnpm/action-setup@v3
-      with:
-        version: 8
 
     - name: Install Dependencies
       run: pnpm install
