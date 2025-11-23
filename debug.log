@@ -1,0 +1,93 @@
+[90m03:36:06.765 [39m[90mDEBUG[39m Writing database to D:\My_Project\person_blog\hexo_blog\db.json
+[90m03:36:06.769 [39m[90mDEBUG[39m Hexo version: [35m7.3.0[39m
+[90m03:36:06.769 [39m[90mDEBUG[39m Working directory: [35mD:\My_Project\person_blog\hexo_blog\[39m
+[90m03:36:06.917 [39m[90mDEBUG[39m Config loaded: [35mD:\My_Project\person_blog\hexo_blog\_config.yml[39m
+[90m03:36:06.918 [39m[32mINFO [39m Validating config
+[90m03:36:06.930 [39m[90mDEBUG[39m Second Theme Config loaded: [35mD:\My_Project\person_blog\hexo_blog\_config.anzhiyu.yml[39m
+[90m03:36:07.251 [39m[90mDEBUG[39m Plugin loaded: [35mhexo-renderer-stylus[39m
+[90m03:36:07.251 [39m[90mDEBUG[39m Plugin loaded: [35mhexo-renderer-pug[39m
+[90m03:36:07.252 [39m[90mDEBUG[39m Plugin loaded: [35mhexo-generator-category[39m
+[90m03:36:07.252 [39m[90mDEBUG[39m Plugin loaded: [35mhexo-generator-archive[39m
+[90m03:36:07.252 [39m[90mDEBUG[39m Plugin loaded: [35mhexo-generator-searchdb[39m
+[90m03:36:07.252 [39m[90mDEBUG[39m Plugin loaded: [35mhexo-generator-tag[39m
+[90m03:36:07.555 [39m[90mDEBUG[39m Plugin loaded: [35mhexo-generator-index[39m
+[90m03:36:07.555 [39m[90mDEBUG[39m Plugin loaded: [35mhexo-server[39m
+[90m03:36:07.555 [39m[90mDEBUG[39m Plugin loaded: [35mhexo-renderer-ejs[39m
+[90m03:36:07.555 [39m[90mDEBUG[39m Plugin loaded: [35mhexo-deployer-git[39m
+[90m03:36:07.555 [39m[90mDEBUG[39m Plugin loaded: [35mhexo-renderer-marked[39m
+[90m03:36:07.568 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\events\404.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\events\cdn.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\events\init.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\events\comment.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\events\welcome.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\events\stylus.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\helpers\aside_categories.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\events\merge_config.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\helpers\aside_archives.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\helpers\findArchiveLength.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\helpers\catalog_list.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\helpers\inject_head_js.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\helpers\get_version.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\helpers\random.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\helpers\page.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\helpers\related_post.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\helpers\sort_attr_post.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\helpers\year.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\filters\random_cover.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\tag\bilibili.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\helpers\tags_page_list.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\tag\btns.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\tag\checkbox.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\filters\post_lazyload.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\tag\dogeplayer.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\tag\button.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\tag\flink.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\tag\folding.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\tag\hide.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\tag\gallery.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\tag\iconfont.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\tag\image.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\tag\inline-labels.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\tag\Introduction-card.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\tag\label.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\tag\link.js[39m
+[90m03:36:07.569 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\tag\inlineImg.js[39m
+[90m03:36:07.570 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\tag\media.js[39m
+[90m03:36:07.570 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\tag\mermaid.js[39m
+[90m03:36:07.570 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\tag\note.js[39m
+[90m03:36:07.570 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\tag\span.js[39m
+[90m03:36:07.571 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\tag\site.js[39m
+[90m03:36:07.571 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\tag\tabs.js[39m
+[90m03:36:07.571 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\tag\timeline.js[39m
+[90m03:36:07.571 [39m[90mDEBUG[39m Script loaded: [35mthemes\anzhiyu\scripts\tag\tip.js[39m
+[90m03:36:07.571 [39m[32mINFO [39m 
+  ===================================================================
+                                                                     
+   █████╗ ███╗   ██╗███████╗██╗  ██╗██╗██╗   ██╗██╗   ██╗
+  ██╔══██╗████╗  ██║╚══███╔╝██║  ██║██║╚██╗ ██╔╝██║   ██║
+  ███████║██╔██╗ ██║  ███╔╝ ███████║██║ ╚████╔╝ ██║   ██║
+  ██╔══██║██║╚██╗██║ ███╔╝  ██╔══██║██║  ╚██╔╝  ██║   ██║
+  ██║  ██║██║ ╚████║███████╗██║  ██║██║   ██║   ╚██████╔╝
+  ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝    ╚═════╝
+
+                            1.6.14
+  ===================================================================
+[90m03:36:07.572 [39m[41mFATAL[49m Port 4000 has been used. Try other port instead.
+[90m03:36:07.572 [39m[41mFATAL[49m Something's wrong. Maybe you can find the solution here: [4mhttps://hexo.io/docs/troubleshooting.html[24m
+[33mError: listen EADDRINUSE: address already in use :::4000
+    at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+    at listenInCluster (node:net:1969:12)
+    at Server.listen (node:net:2074:7)
+    at D:\My_Project\person_blog\hexo_blog\node_modules\.pnpm\hexo-server@3.0.0\node_modules\hexo-server\lib\server.js:68:12
+    at Promise._execute (D:\My_Project\person_blog\hexo_blog\node_modules\.pnpm\bluebird@3.7.2\node_modules\bluebird\js\release\debuggability.js:384:9)
+    at Promise._resolveFromExecutor (D:\My_Project\person_blog\hexo_blog\node_modules\.pnpm\bluebird@3.7.2\node_modules\bluebird\js\release\promise.js:518:18)
+    at new Promise (D:\My_Project\person_blog\hexo_blog\node_modules\.pnpm\bluebird@3.7.2\node_modules\bluebird\js\release\promise.js:103:10)
+    at checkPort (D:\My_Project\person_blog\hexo_blog\node_modules\.pnpm\hexo-server@3.0.0\node_modules\hexo-server\lib\server.js:65:10)
+    at module.exports (D:\My_Project\person_blog\hexo_blog\node_modules\.pnpm\hexo-server@3.0.0\node_modules\hexo-server\lib\server.js:17:10)
+    at Hexo.tryCatcher (D:\My_Project\person_blog\hexo_blog\node_modules\.pnpm\bluebird@3.7.2\node_modules\bluebird\js\release\util.js:16:23)
+    at Hexo.<anonymous> (D:\My_Project\person_blog\hexo_blog\node_modules\.pnpm\bluebird@3.7.2\node_modules\bluebird\js\release\method.js:15:34)
+    at Hexo.call (D:\My_Project\person_blog\hexo_blog\node_modules\.pnpm\hexo@7.3.0_chokidar@3.6.0\node_modules\hexo\dist\hexo\index.js:215:28)
+    at D:\My_Project\person_blog\hexo_blog\node_modules\.pnpm\hexo-cli@4.3.2\node_modules\hexo-cli\dist\hexo.js:56:21
+    at tryCatcher (D:\My_Project\person_blog\hexo_blog\node_modules\.pnpm\bluebird@3.7.2\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (D:\My_Project\person_blog\hexo_blog\node_modules\.pnpm\bluebird@3.7.2\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (D:\My_Project\person_blog\hexo_blog\node_modules\.pnpm\bluebird@3.7.2\node_modules\bluebird\js\release\promise.js:604:18)[39m
